@@ -3,7 +3,7 @@
 Before test execution rename config file `src\test\resources\config.properties.example` to `src\test\resources\config.properties` 
 and set values email and password of a test account.
 
-##Test execution
+## Test execution
 
 To run tests use command:
 
